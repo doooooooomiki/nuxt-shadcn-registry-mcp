@@ -1,0 +1,7 @@
+{
+  "name": "nuxt-shadcn-registry-mcp",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "packageManager": "pnpm@10.7.0"
+}
