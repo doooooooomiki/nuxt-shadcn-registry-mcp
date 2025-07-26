@@ -1,0 +1,14 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "year",
+  "type": "registry:component",
+  "title": "Das Jahr",
+  "description": "A simple component to display the current year.",
+  "files": [
+    {
+      "path": "registry/hinterland/das-jahr/index.vue",
+      "content": "<template>\n  <NuxtTime :datetime=\"Date.now()\" year=\"numeric\" />\n</template>\n",
+      "type": "registry:component"
+    }
+  ]
+}

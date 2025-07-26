@@ -1,0 +1,19 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "hinterland",
+  "homepage": "https://hinterland.hyperlink-drifter.com",
+  "items": [
+    {
+      "name": "year",
+      "type": "registry:component",
+      "title": "Das Jahr",
+      "description": "A simple component to display the current year.",
+      "files": [
+        {
+          "path": "registry/hinterland/das-jahr/index.vue",
+          "type": "registry:component"
+        }
+      ]
+    }
+  ]
+}

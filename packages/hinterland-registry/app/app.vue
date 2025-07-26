@@ -1,6 +1,6 @@
 <template>
   <div>
     <NuxtRouteAnnouncer />
-    <NuxtWelcome />
+    <DasJahr />
   </div>
 </template>

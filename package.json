@@ -3,5 +3,11 @@
   "private": true,
   "license": "MIT",
   "type": "module",
+  "scripts": {
+    "build": "pnpm run --recursive build",
+    "dev": "pnpm run --recursive dev",
+    "lint": "pnpm run -r lint",
+    "test": "pnpm run -r test"
+  },
   "packageManager": "pnpm@10.7.0"
 }
